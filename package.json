@@ -1,0 +1,22 @@
+{
+  "name": "@saltcorn/leaflet-map-icon",
+  "version": "0.1.3",
+  "description": "Leaflet map view templates with icon selection",
+  "main": "index.js",
+  "dependencies": {
+    "@saltcorn/markup": "^0.1.3",
+    "@saltcorn/data": "^0.1.3"
+  },
+  "author": "Tom Nielsen & Phil Manzano (j2l)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "repository": "github:j2l/leaflet-map-icon",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
